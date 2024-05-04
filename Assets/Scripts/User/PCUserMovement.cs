@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class UserMovement : MonoBehaviour
+public class UserMovementPCUserMovements: MonoBehaviour
 {
 	public float m_turnSpeed = 20;
 	public InputActionProperty m_forward;
